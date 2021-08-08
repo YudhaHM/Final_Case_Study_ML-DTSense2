@@ -1,1 +1,1 @@
-# Final Project - DTSense2 - AI & Machine Learning
+# Final Project - DTSense2 - AI and Machine Learning
