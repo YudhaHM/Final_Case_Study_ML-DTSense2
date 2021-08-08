@@ -1,1 +1,1 @@
-# Final_Case_Study_ML-DTSense2
+# Final Project - DTSense2 - AI & Machine Learning
